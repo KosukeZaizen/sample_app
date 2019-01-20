@@ -26,5 +26,5 @@
 /spring/*.pid
 
 #ignore test
-/test/*
+test/*
 
