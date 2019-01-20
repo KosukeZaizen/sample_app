@@ -25,9 +25,3 @@
 # Ignore Spring files.
 /spring/*.pid
 
-#ignore test
-/test/*
-/test/**/*
-/test/**/**/*
-
-
